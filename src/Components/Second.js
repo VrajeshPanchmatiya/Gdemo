@@ -2,7 +2,7 @@ import React from "react";
 const Second = () => {
   return (
     <div>
-      <h1>Second Page</h1>
+      <p>Second Page</p>
     </div>
   );
 };
