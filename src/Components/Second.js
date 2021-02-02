@@ -4,6 +4,7 @@ const Second = () => {
   return (
     <div>
       <p>Second Page</p>
+      <p>Hello World</p>
     </div>
   );
 };
